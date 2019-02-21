@@ -1,0 +1,20 @@
+{
+  "name": "atlas-sms-gateway-node",
+  "version": "1.0.2",
+  "description": "nodejs wrapper for atlas sms gateway",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sms",
+    "gateway",
+    "Nigeria",
+    "send-sms"
+  ],
+  "author": "David Kezi",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
