@@ -13,7 +13,7 @@ npm install atlas-sms-gateway-node
 ```javascript
 var Atlas = require('atlas-sms-gateway-node');
 
-var atlas = new Atlas("YOUR_JUSIBE_PUBLIC_KEY", "YOUR_JUSIBE_ACCESS_TOKEN");
+var atlas = new Atlas("YOUR_ATLAS_API_KEY", "YOUR_ATLAS_API_SECRET");
 
 ```
 
